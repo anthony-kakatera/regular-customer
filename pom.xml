@@ -12,6 +12,7 @@
     <artifactId>regular-customer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>regular-customer</name>
+    <packaging>war</packaging>
 
     <properties>
         <java.version>11</java.version>
